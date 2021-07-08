@@ -21,6 +21,7 @@
     font-size: 0.8rem;
     max-width: 360px;
     height: 80px;
+    word-wrap: break-word;
 }
 .banner_button{
     cursor: pointer;
@@ -28,7 +29,7 @@
     outline: none;
     border: none;
     font-weight: 700;
-    border-radius: 0.2w;
+    border-radius: 0.2vw;
     padding-left: 2rem;
     padding-right: 2rem;
     margin-right: 1em;
